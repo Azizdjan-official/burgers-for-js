@@ -55,5 +55,5 @@ let btnChanger = document.querySelector("#btn-changer");
 
 btnChanger.addEventListener("click", () =>{
   document.body.classList.toggle("dark");
-  btnChanger.textContent = "Dark"
-})
+  btnChanger.textContent = "Dark";
+});
